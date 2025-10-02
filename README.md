@@ -1,6 +1,6 @@
 # Rogerio-Ely
 
-Eu sou o Rogerio Ely, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:  e iniciando o aprendizado de JavaScript e React.
+Eu sou o Rogerio Ely, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:  
 <br>
 <br>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
